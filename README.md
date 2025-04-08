@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PR1 - Web Scraping de FilmAffinity
 
 ## Autor
@@ -67,3 +68,7 @@ El script actual no admite parámetros por línea de comandos; sin embargo, pued
 El dataset se encuentra publicado en Zenodo y accesible públicamente bajo una licencia abierta:
 
  **DOI del dataset:** [https://zenodo.org/records/15177922](https://zenodo.org/records/15177922)
+=======
+# PR1-Lucianohauser13
+PR1: Tipología y ciclo de vida de los datos
+>>>>>>> 57099ab5a2c9f6ad3c617a913f719325b46ca63f
